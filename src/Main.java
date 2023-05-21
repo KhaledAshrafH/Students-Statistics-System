@@ -39,8 +39,8 @@ public class Main {
         }
     }
     public static void main(String[] args) throws IOException {
-        String dirPath="/app/data/batch";
-        String filePathStr="/app/data/batch/database.csv";
+        String dirPath = "C:\\Users\\5aleda4rf\\IdeaProjects\\students_registration_system\\app\\data\\batch";
+        String filePathStr = "C:\\Users\\5aleda4rf\\IdeaProjects\\students_registration_system\\app\\data\\batch\\database.csv";
         Map<String,Long> mp;
         while(true){
             System.out.println("1- Show Students Statistics\n" +
