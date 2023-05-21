@@ -88,7 +88,7 @@ public class Main {
                 break;
             }
             else{
-                System.out.println("This number not valid .. Enter correct number!");
+                System.out.println("This number not valid ... Enter correct number!");
             }
         }
     }
