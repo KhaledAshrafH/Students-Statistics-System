@@ -146,9 +146,3 @@ This System was created by a team of four computer science students at Faculty o
 ## License
 
 The System is released under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the toolbox in accordance with the terms of this license.
-
-## Running the Docker Compose File
-
-To run the Docker Compose file and deploy the subsystem, follow the same steps as described in the previous subsystem's README file.
-
-By following these steps, you can deploy and utilize the Student Statistics System subsystem, incorporating CI/CD practices and Docker containerization concepts.
