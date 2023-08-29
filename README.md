@@ -41,7 +41,7 @@ The system enables users to list all batch files located under the specified pat
 
 ### Assumptions
 
-- The assumptions mentioned in the first requirement are also valid for this functionality.
+- The assumptions mentioned in the [first component requirements](https://github.com/KhaledAshrafH/Students-Registration-System) are also valid for this functionality.
 
 ## CI/CD Pipeline
 
