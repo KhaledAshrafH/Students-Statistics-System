@@ -1,6 +1,6 @@
 # Student Statistics System
 
-The Student Statistics System is a subsystem that provides statistics related to student registration. It includes two functionalities: displaying registration statistics and listing batch files.
+It's a subsystem that provides statistics related to student registration. It includes two functionalities: displaying registration statistics and listing batch files.
 
 ## Displaying Registration Statistics
 
